@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Artur</h1>
 <h3 align="center">A passionate backend developer from Poland</h3>
 
-- 🔭 I’m currently working on [E-commerce-Website](https://github.com/Trzups/E-commerce-Website)
-
-- 🌱 I’m currently learning **Django, Vue 3**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Trzups](https://github.com/Trzups)
 
 - 💬 Ask me about **Python, Django, JS, Vue 3**
